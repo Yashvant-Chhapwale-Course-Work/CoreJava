@@ -1,10 +1,10 @@
 # Core Java Assignments
-Chapter1: *Q1:Create Class Emp with its important attributes like name/id/sal, -Display all the info. -Display all the info with toString. ; 
-          *Q2:Create a class which contains Static and Non-Static Members. ; 
-          *Q3:Show uses of the following keywords public/private/protected/default. ; 
-          *Q4:Show an example of method overloading (real time case study)? ; 
-          *Q5:Show an example of method overridding (real time case study)? ; Q6:Write an example of containment (has-a) sow aggregation/composition. ; 
-          *Q7:Abstract the following domains. -Implement all oops features. -Each Subdomain must contain 5 attributes. -Each Subdomain must contain 5 attributes. ;
+Chapter1: * Q1:Create Class Emp with its important attributes like name/id/sal, -Display all the info. -Display all the info with toString. ; 
+          * Q2:Create a class which contains Static and Non-Static Members. ; 
+          * Q3:Show uses of the following keywords public/private/protected/default. ; 
+          * Q4:Show an example of method overloading (real time case study)? ; 
+          * Q5:Show an example of method overridding (real time case study)? ; Q6:Write an example of containment (has-a) sow aggregation/composition. ; 
+          * Q7:Abstract the following domains. -Implement all oops features. -Each Subdomain must contain 5 attributes. -Each Subdomain must contain 5 attributes. ;
 
 Chapter3: Q1:Show a real time exmple of static variable and static method? ; 
           Q2:Show an example of parameterized constructor (with real time example). ; 
