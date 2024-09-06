@@ -1,5 +1,5 @@
 # Core Java Assignments
-Chapter1: Q1:Create Class Emp with its important attributes like name/id/sal, -Display all the info. -Display all the info with toString. ; 
+Chapter1: -Q1:Create Class Emp with its important attributes like name/id/sal, -Display all the info. -Display all the info with toString. ; 
           Q2:Create a class which contains Static and Non-Static Members. ; 
           Q3:Show uses of the following keywords public/private/protected/default. ; 
           Q4:Show an example of method overloading (real time case study)? ; 
