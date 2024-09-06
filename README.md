@@ -1,4 +1,4 @@
-**Core Java Assignments**
+_Core Java Assignments_
 
 ---
 
