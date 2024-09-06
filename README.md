@@ -1,4 +1,5 @@
-# Core Java Assignments
+Core Java Assignments
+---
 
 ## Chapter 1
 - **Q1**: Create a class `Emp` with its important attributes like `name`, `id`, `sal`
