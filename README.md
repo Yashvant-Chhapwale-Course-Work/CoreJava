@@ -1,4 +1,5 @@
-Core Java Assignments
+**Core Java Assignments**
+
 ---
 
 ## Chapter 1
