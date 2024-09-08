@@ -27,7 +27,7 @@ Core Java Assignments
     - A : Abstraction
     - P : Polymorphism
     - I : Inheritance
-    -  E : Encapsulation
+    - E : Encapsulation
   - I(Interpreted): Due to '.class' file.
   - D(Distributive): Can be used to create Distributed Applications.
   - S(Secured): JVM and No Pointers Approach makes JAVA more secured.
