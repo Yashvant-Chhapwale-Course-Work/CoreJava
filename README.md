@@ -17,6 +17,24 @@ Core Java Assignments
 
 ---
 
+## Chapter 2
+- **Q1**: List `Features of Java` :
+  - S(Simple) : Based on C & C++.
+  - P(Portable): Due to '.class' file.
+  - A(Architecture Neutral): Due to '.class' file.
+  - R(Robust): Due to Exception Handling.
+  - O(Object Oriented): Inclusion of OOPs Features like,
+                        - A : Abstraction
+                        - P : Polymorphism
+                        - I : Inheritance
+                        - E : Encapsulation
+  - I(Interpreted): Due to '.class' file.
+  - D(Distributive): Can be used to create Distributed Applications.
+  - S(Secured): JVM and No Pointers Approach makes JAVA more secured.
+  - M(Multithreaded): Capability for Multithreading. 
+
+---
+
 ## Chapter 3
 - **Q1**: Show a real-time example of `static variable` and `static method`.
 - **Q2**: Show an example of `parameterized constructor` (with real-time example).
