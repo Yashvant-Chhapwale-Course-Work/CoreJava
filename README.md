@@ -24,10 +24,10 @@ Core Java Assignments
   - A(Architecture Neutral): Due to '.class' file.
   - R(Robust): Due to Exception Handling.
   - O(Object Oriented): Inclusion of OOPs Features like,
-                        - A : Abstraction
-                        - P : Polymorphism
-                        - I : Inheritance
-                        - E : Encapsulation
+    - A : Abstraction
+    - P : Polymorphism
+    - I : Inheritance
+    -  E : Encapsulation
   - I(Interpreted): Due to '.class' file.
   - D(Distributive): Can be used to create Distributed Applications.
   - S(Secured): JVM and No Pointers Approach makes JAVA more secured.
