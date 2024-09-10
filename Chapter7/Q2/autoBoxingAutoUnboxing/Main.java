@@ -39,7 +39,7 @@ public class Main {
 			 System.out.print(li.get(i) + " ");// AutoUnboxing // System.out.println(li.get(i).intValue());//Format when Unboxing (Before
 								 // Java5)
 		}
-		System.out.println(" ]");
+		System.out.println("]");
 	}
 
 	public static void main(String[] args) {
