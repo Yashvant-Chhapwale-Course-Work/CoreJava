@@ -122,3 +122,26 @@
 
 ## Chapter 11
 - **Q1**: Reflect a class in detail by using `reflection`.
+
+---
+
+## Chapter 12
+- **Q1**: Show real time uses of `vector`/`arraylist`/`linkedlist` with generics.
+  Perform following operations:
+  - `Add`
+  - `Update`
+  - `Delete`
+  - `Search`
+- **Q2**: Show real time uses of `map` with generics.
+  Perform following operaions:
+  - `Add`
+  - `Update`
+  - `Delete`
+  - `Search`
+- **Q3**: Store information in `properties` class and access it. [Username / Password]
+- **Q4**: Show an example of `Object Iteration` by using following components.
+  - `For Each Loop`
+  - `Iterator`
+  - `Enumerator`
+  - `List Iterator`
+- **Q5**: Show an example of `Comparble` & `Comparator`.
