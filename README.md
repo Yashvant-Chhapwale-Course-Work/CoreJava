@@ -27,7 +27,7 @@
 
 <div align="center">
   
-  [`Checkout CODE`](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter1)<br>
+  [**`Checkout CODE`**](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter1)<br>
 </div>
 <br>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
   
-  [`Checkout CODE`](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter3)<br>
+  [**`Checkout CODE`**](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter3)<br>
 </div>
 <br>
  
@@ -82,7 +82,7 @@
 
 <div align="center">
   
-  [`Checkout CODE`](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter4)<br>
+  [**`Checkout CODE`**](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter4)<br>
 </div>
 <br>
  
@@ -102,7 +102,7 @@
 
 <div align="center">
   
-  [`Checkout CODE`](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter5)<br>
+  [**`Checkout CODE`**](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter5)<br>
 </div>
 <br>
  
@@ -116,7 +116,7 @@
 
 <div align="center">
   
-  [`Checkout CODE`](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter6)<br>
+  [**`Checkout CODE`**](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter6)<br>
 </div>
 <br>
  
@@ -134,7 +134,7 @@
 
 <div align="center">
   
-  [`Checkout CODE`](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter7)<br>
+  [**`Checkout CODE`**](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter7)<br>
 </div>
 <br>
  
@@ -150,7 +150,7 @@
 
 <div align="center">
   
-  [`Checkout CODE`](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter8)<br>
+  [**`Checkout CODE`**](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter8)<br>
 </div>
 <br>
  
@@ -169,7 +169,7 @@
 
 <div align="center">
   
-  [`Checkout CODE`](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter9)<br>
+  [**`Checkout CODE`**](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter9)<br>
 </div>
 <br>
  
@@ -187,7 +187,7 @@
 
 <div align="center">
   
-  [`Checkout CODE`](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter10)<br>
+  [**`Checkout CODE`**](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter10)<br>
 </div>
 <br>
  
@@ -199,7 +199,7 @@
 
 <div align="center">
   
-  [`Checkout CODE`](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter11)<br>
+  [**`Checkout CODE`**](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter11)<br>
 </div>
 <br>
  
@@ -229,7 +229,7 @@
 
 <div align="center">
   
-  [`Checkout CODE`](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter12)<br>
+  [**`Checkout CODE`**](https://github.com/Yashvant-Chhapwale-Course-Work/CoreJava/tree/main/Chapter12)<br>
 </div>
 <br>
 
