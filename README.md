@@ -1,4 +1,13 @@
 # Core Java Assignments
+---
+
+## Java INstallation and Setup
+- Go To [`Official Oracle Page`](https://www.oracle.com/in/java/technologies/downloads/) to download the `Java Installer`.
+- **Scroll Down** and **Select** the required `JDK Version` **[JDK_24]**.
+  ![Select `JDK_Version`](https://github.com/user-attachments/assets/8ad5a583-b94f-4eaa-972a-007bf0f19f50)<br>
+- Now, **Select** the `OS (Operating System)` and **Click** on the `Installer_Link` according to your preference **[x64 Installer (.exe)]**.
+  ![Select `OS_Type` >> Click the `Installer_Link`](https://github.com/user-attachments/assets/ddbe6753-9211-4723-b250-aa9874af7ba2)<br>
+- **Run** the `Downloaded Installer` and proceed with **Installation**.
 
 ---
 
